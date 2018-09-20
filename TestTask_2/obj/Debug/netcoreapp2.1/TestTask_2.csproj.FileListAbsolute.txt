@@ -1,0 +1,13 @@
+C:\Users\Настюша\source\repos\TestTask_2\TestTask_2\bin\Debug\netcoreapp2.1\TestTask_2.deps.json
+C:\Users\Настюша\source\repos\TestTask_2\TestTask_2\bin\Debug\netcoreapp2.1\TestTask_2.runtimeconfig.json
+C:\Users\Настюша\source\repos\TestTask_2\TestTask_2\bin\Debug\netcoreapp2.1\TestTask_2.runtimeconfig.dev.json
+C:\Users\Настюша\source\repos\TestTask_2\TestTask_2\bin\Debug\netcoreapp2.1\TestTask_2.dll
+C:\Users\Настюша\source\repos\TestTask_2\TestTask_2\obj\Debug\netcoreapp2.1\TestTask_2.csproj.CoreCompileInputs.cache
+C:\Users\Настюша\source\repos\TestTask_2\TestTask_2\obj\Debug\netcoreapp2.1\TestTask_2.RazorAssemblyInfo.cache
+C:\Users\Настюша\source\repos\TestTask_2\TestTask_2\obj\Debug\netcoreapp2.1\TestTask_2.RazorAssemblyInfo.cs
+C:\Users\Настюша\source\repos\TestTask_2\TestTask_2\obj\Debug\netcoreapp2.1\TestTask_2.AssemblyInfoInputs.cache
+C:\Users\Настюша\source\repos\TestTask_2\TestTask_2\obj\Debug\netcoreapp2.1\TestTask_2.AssemblyInfo.cs
+C:\Users\Настюша\source\repos\TestTask_2\TestTask_2\obj\Debug\netcoreapp2.1\TestTask_2.RazorTargetAssemblyInfo.cache
+C:\Users\Настюша\source\repos\TestTask_2\TestTask_2\bin\Debug\netcoreapp2.1\TestTask_2.pdb
+C:\Users\Настюша\source\repos\TestTask_2\TestTask_2\obj\Debug\netcoreapp2.1\TestTask_2.dll
+C:\Users\Настюша\source\repos\TestTask_2\TestTask_2\obj\Debug\netcoreapp2.1\TestTask_2.pdb
