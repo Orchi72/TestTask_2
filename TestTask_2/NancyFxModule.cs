@@ -14,7 +14,6 @@ namespace TestTask_2
 
             Get("/api/{id}", async args =>
             {
-
                 try
                 {
                     var wordbook = nancyFxService.GetById(this.Bind<WordBook>() as object, Bootstrapper.WordBookLists);
